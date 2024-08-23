@@ -25,7 +25,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- [Bootstrap](https://reactjs.org/) - JS library
+- [Bootstrap](https://getbootstrap.com/)
 
 ### What I learned
 
@@ -37,6 +37,5 @@ I want more tasking project on either Tailwind or Bootstrap, to learn new classe
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Olusoyemi Timilehin](https://timilehin-dex.github.io/Portfolio/)
+- Frontend Mentor - [@Timilehin-dex](https://www.frontendmentor.io/profile/Timilehin-dex)
